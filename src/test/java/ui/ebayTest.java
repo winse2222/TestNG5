@@ -14,6 +14,7 @@ public class ebayTest extends BaseTest {
 	String pageTitle = driver.getTitle();
 		System.out.println("Title of the page is "+pageTitle);
 		System.out.println("Title of the page is "+pageTitle);
+		System.out.println("Title of the page is "+pageTitle);
 		Assert.assertTrue(true);
 		
 		
