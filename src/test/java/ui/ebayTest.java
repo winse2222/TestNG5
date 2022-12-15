@@ -18,6 +18,7 @@ public class ebayTest extends BaseTest {
 		System.out.println("Title of the page is "+pageTitle);
 		System.out.println("Title of the page is "+pageTitle);
 		System.out.println("Title of the page is 100"+pageTitle);
+		System.out.println("Title of the page is 101"+pageTitle);
 		Assert.assertTrue(true);
 		
 		
